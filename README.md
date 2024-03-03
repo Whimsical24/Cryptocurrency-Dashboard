@@ -25,8 +25,7 @@ The dashboard offers valuable insights for investors, analysts, and enthusiasts 
 
  
 ![Dashboard_upload]
-Page 1:-  (![cry1](https://github.com/Whimsical24/Cryptocurrency-Dashboard/assets/108448418/1243a685-addd-45a2-9708-8cc9090b5b21))
+Page 1:-  ![cry1](https://github.com/Whimsical24/Cryptocurrency-Dashboard/assets/108448418/1243a685-addd-45a2-9708-8cc9090b5b21)
 
 Page 2:-  ![cry2](https://github.com/Whimsical24/Cryptocurrency-Dashboard/assets/108448418/7e4caf3c-8699-4d82-b7c7-bae7d02c738f)
 
-               (![ivb2](https://github.com/Whimsical24/Cryptocurrency-Dashboard/assets/108448418/09dfcf01-9a0a-4537-8a1b-d7f0826d5999))
